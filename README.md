@@ -7,8 +7,8 @@ A simple application that displays characters from the [Rick and Morty API](http
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/rick-morty-api-app.git
-cd rick-morty-api-app
+git clone https://github.com/sahilraj3019/paginated-char-api-app.git
+cd paginated-char-api-app
 ```
 
 ### 2. Install dependencies
