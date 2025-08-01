@@ -2,28 +2,7 @@
 
 A simple application that displays characters from the [Rick and Morty API](https://rickandmortyapi.com/).
 
----
-
-## 📁 Project Structure
-
-```
-src/
-├── components/           # Reusable UI components
-│   └── CharacterTable.tsx
-├── pages/                # Route-based pages
-│   ├── CharacterPage.tsx
-│   └── HomePage.tsx
-├── App.tsx               # Main app component with routing
-├── api.ts                # API utility to fetch characters
-├── main.tsx              # Entry point
-├── routes.tsx            # All routes defined here
-├── types.ts              # Type definitions for characters
-└── index.css             # [Optional] Currently unused
-```
-
----
-
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
